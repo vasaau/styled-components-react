@@ -5,6 +5,7 @@ import styled from 'styled-components';
 let Input = styled.input`
   display: block;
   color: red;
+  border-color: yellow  
 `;
 
 let User = styled.div`
